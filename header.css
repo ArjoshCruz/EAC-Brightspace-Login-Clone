@@ -1,0 +1,51 @@
+* {
+    font-family: 'Lato', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    box-shadow: 0 1px 0.05px rgb(225, 225, 225);
+    border-top: 5px solid rgb(178, 0, 0);
+    margin: 0;
+}
+
+.main-header {
+    margin: 2px 360px;
+}
+
+.img-container {
+    display: flex;
+    padding: 20px 0px;
+    margin: 0 0 0 0px;
+}
+
+.img-container img {
+    width: 256px;
+}
+
+.login-container {
+    background-color: #d4f3fd;
+    width: 1350px;
+    height: 700px;
+    display: block;
+    margin: 0 auto;
+}
+
+.welcome h1 {
+    font-size: 32px;
+    font-weight: 450;
+    color: rgb(46, 46, 46);
+    margin: 0;
+}
+
+.welcome h2 {
+    font-size: 20px;
+    font-weight: bold;
+
+    margin: 0;
+    
+}
